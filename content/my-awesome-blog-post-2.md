@@ -1,6 +1,6 @@
 +++
 author = "John Doe"
-categories = ["Design Tools"]
+categories = ["Design Tools", "something"]
 date = 2020-10-02T04:00:00Z
 description = "This is meta description"
 image = "/images/tools/figma.png"
