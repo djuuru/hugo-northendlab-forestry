@@ -3,8 +3,8 @@ author = "John Doe"
 categories = ["Design Tools", "something"]
 date = 2020-10-02T04:00:00Z
 description = "This is meta description"
-image = "/images/tools/figma.png"
-title = "My awesome second blog post"
+image = "/images/tools/vs-code.png"
+title = "Custom post that I modified... a little"
 type = "post"
 
 +++
