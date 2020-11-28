@@ -42,7 +42,7 @@ enable = false
 image = "images/hugo-muscot.svg"
 title = "Get the best hugo templates"
 [params.cta.button]
-enable = true
+enable = false
 label = "Visit Here"
 link = "https://gethugothemes.com/shop/"
 [[params.plugins.css]]
